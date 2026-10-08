@@ -1,5 +1,10 @@
 1 - Favorite genre of tv show and example
+My favorite TV genre is melodrama, for example, This Is Us.
 2 - favorite current movie
+My favorite movie is Mr. & Mrs. Smith.
 3 - book you are currently reading
+Python Crash Couse
 4 - one thing in NY you want to check Out
-5 - Favorite bakery in NY
+I want to visit a museum and the zoo in New York City.
+5 - Favorite bakery in NY 
+Paris Baguette.
