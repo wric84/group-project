@@ -1,0 +1,5 @@
+1 - Favorite genre of tv show and example
+2 - favorite current movie
+3 - book you are currently reading
+4 - one thing in NY you want to check Out
+5 - Favorite bakery in NY
